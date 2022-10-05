@@ -1,0 +1,14 @@
+body{
+  background:green;
+}
+form label{
+  display:block
+    font-size: 20px;
+}
+
+form input{
+  display:block
+    font-size: 20px;
+  background:black
+    color: white;
+}
